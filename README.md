@@ -1,4 +1,4 @@
-<img width="1893" height="962" alt="image" src="https://github.com/user-attachments/assets/959e272c-4483-48a5-ae03-2f6e8cf2e9b1" /># Waffle-Heaven-Website
+# Waffle-Heaven-Website
 This is a beautiful website for a dessert shop called Waffle Heaven. I built this using HTML, CSS, and Javascript for a college project to practice web design.<br>
 <hr> <br><br>
 🚀Features<br>
